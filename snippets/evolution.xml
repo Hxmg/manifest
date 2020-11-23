@@ -17,7 +17,7 @@
            revision="refs/heads/Rika" />
 
   <remote  name="gitlab/hentaiOS"
-           fetch="https://gitlab.com/hentaiOS"
+           fetch="git@gitlab.com:Hxmg"
            revision="refs/heads/Rika" />
 
   <remote  name="octavi"
